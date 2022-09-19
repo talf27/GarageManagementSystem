@@ -1,6 +1,6 @@
 # Garage Management System
 
-A software system that manages a vehicles garage of five types of vehicles:
+A software system that manages a vehicles garage with five types of vehicles:
 - Fueled Motorcycle
 - Electric Motorcycle
 - Fueled Car
