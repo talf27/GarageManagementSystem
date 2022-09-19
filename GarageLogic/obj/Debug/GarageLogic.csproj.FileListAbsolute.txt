@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\bin\Debug\GarageLogic.dll.config
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\obj\Debug\GarageLogic.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\ASUS\Documents\לימודים\Garage Management\GarageLogic\obj\Debug\GarageLogic.pdb
