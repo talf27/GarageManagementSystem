@@ -25,7 +25,7 @@ namespace ConsoleUI
 1 - create new vehicle
 2 - go to garage
 3 - exit");
-                while(!int.TryParse(Console.ReadLine(), out userChoice) && userChoice < 1 || userChoice > 3)
+                while(!int.TryParse(Console.ReadLine(), out userChoice) || userChoice < 1 || userChoice > 3)
                 {
                     Console.Write("The choice's number can be 1-3. Try again: ");
                 }

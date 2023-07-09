@@ -4,11 +4,6 @@ namespace GarageLogic
 {
     internal class ElectricEngine : Engine
     {
-        internal override void FillEnergyInEngine(float i_HoursToAdd)
-        {
-            base.FillEnergyInEngine(i_HoursToAdd);
-        }
-
         protected internal override string ShowEngineDetails()
         {
             return string.Format(

@@ -25,7 +25,7 @@ namespace ConsoleUI
 7 - show full details about a vehicle in the garage
 8 - back to the previous menu");
 
-                while(!int.TryParse(Console.ReadLine(), out userChoice) && userChoice < 1 || userChoice > 8)
+                while(!int.TryParse(Console.ReadLine(), out userChoice) || userChoice < 1 || userChoice > 8)
                 {
                     Console.Write("The choice's number can be 1-8. Try again: ");
                 }
@@ -112,7 +112,6 @@ namespace ConsoleUI
                 {
                     if (!(isLegalFilters = ParseToEnumMember(typeof(Enums.eVehicleStatus), statusToFilterBy, out parsedEnum)))
                     {
-                        Console.WriteLine("Hi");
                         Console.WriteLine("Please enter only 1-3 (separated by ',') if you want to filter. Try again: ");
                         break;
                     }
